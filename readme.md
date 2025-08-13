@@ -1,3 +1,5 @@
+When using this code please cite the author.
+
 This codebase performs Connectome Regression in Alternate
 Metrics (CRAM) analysis. It takes input parameters, creates necessary 
 folders, calculates a distance matrix (if it does not exist or is 
